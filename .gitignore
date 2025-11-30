@@ -1,0 +1,25 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+env/
+venv/
+.env
+.venv/
+ENV/
+
+# Streamlit / IDE / OS
+.ipynb_checkpoints
+.vscode/
+.idea/
+.DS_Store
+
+# Python packaging
+dist/
+build/
+*.egg-info
+
+# Logs
+*.log
