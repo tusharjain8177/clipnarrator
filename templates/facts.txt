@@ -1,0 +1,5 @@
+Hook: One-line punchy hook.
+Fact 1: Short surprising fact.
+Fact 2: Short surprising fact.
+Fact 3: Short surprising fact.
+Closing: Quick CTA or punchline.
